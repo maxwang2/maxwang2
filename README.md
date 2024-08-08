@@ -20,6 +20,8 @@
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=maxwang2&theme=github-compact&hide_border=true&area=true" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=What+I+like+using%3A)](https://git.io/typing-svg)
+
 <img align="center" src="https://skillicons.dev/icons?i=cpp,py,md,obsidian,idea,pycharm,vscode,pr,ps,ae,discord&theme=light" /> <br>
 
 </div>
