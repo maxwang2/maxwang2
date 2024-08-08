@@ -18,6 +18,8 @@
 ![](https://img.shields.io/badge/性格-内向-red) 
 ![](https://img.shields.io/badge/爱好-二次元-red)
 
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=maxwang2&theme=github-compact&hide_border=true&area=true" />
+
 </div>
 
 ![头像](wallpaper.png)
