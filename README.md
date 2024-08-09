@@ -8,7 +8,7 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxwang2&show_icons=true&theme=tokyonight)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxwang2&show_icons=true&theme=tokyonight)](https://space.bilibili.com/528679346)
 
 [![B站](https://img.shields.io/badge/B%E7%AB%99-VagerV-blue)](https://space.bilibili.com/528679346)
 [![youtube](https://img.shields.io/badge/Youtube-maxwang-red)](https://www.youtube.com/channel/UCXeXtJoxIQ0q2Ab3oTV6gew)
