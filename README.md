@@ -8,8 +8,6 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxwang2&show_icons=true&theme=tokyonight)](https://space.bilibili.com/528679346)
-
 <img align="center" width="700" src="https://streak-stats.demolab.com?user=maxwang2&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true"/>
 
 [![B站](https://img.shields.io/badge/B%E7%AB%99-VagerV-blue)](https://space.bilibili.com/528679346)
